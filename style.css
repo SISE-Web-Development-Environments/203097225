@@ -1,7 +1,7 @@
 
 body {
-	background-image: url("bgo.jfif");
-	background-color: yellowgreen;
+	/* background-image: url("bgo.jfif"); */
+	background-color: darkcyan;
   background-position: center;
   background-size: cover;
   position: relative;
@@ -58,6 +58,7 @@ li a
 {
 	font-family: cursive;
 	font-weight: bold;
+	color: purple;
 	font-size:0.6cm;
 	margin-left: 2cm;
 }
