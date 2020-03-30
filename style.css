@@ -1,7 +1,97 @@
+
+body {
+	background-image: url("bgo.jfif");
+	background-color: yellowgreen;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+   }
+u
+{
+	color: purple;
+	font-family: cursive;
+	font-size: 0.8cm;
+	text-align: center;
+}
+.spec
+{
+	font-size: 0.5cm;
+	font-family: cursive;
+	color: purple;
+	font-weight: bold;
+}
+.desc
+{
+	font-size: 0.5cm;
+	font-family: cursive;
+	color: purple;
+	font-weight: bold;
+}
+.op
+{
+	font-family: cursive;
+	font-size: 0.5cm;
+	text-align: left;
+	margin-left: 1cm;
+}
+.ans2
+{
+	font-family: cursive;
+	font-size: 0.5cm;
+	text-align: left;
+	margin-left: 1cm;
+}
+.section {
+	text-align: center;
+  }
 #menu
 {
 	position: fixed;
-	width: 100%;
-	height: 35px;
-	background: white;
+	width:100%;
+	height: 100px;
 }
+li
+{
+	display: inline;
+}
+li a
+{
+	font-family: cursive;
+	font-weight: bold;
+	font-size:0.6cm;
+	margin-left: 2cm;
+}
+li a:hover
+{
+color: yellowgreen;
+}
+
+p{
+	word-spacing: 0.08in;
+}
+.emojis
+{
+font-size: 1cm;
+}
+input
+{
+	tab-size: 5cm;
+}
+table, td, th {  
+	font-family: cursive;
+	border: 1px solid #800080;
+	font-size: 0.5cm;
+	text-align: left;
+  }
+  table {
+	border-collapse: collapse;
+	width: 100%;
+  }
+  
+  th, td {
+	padding: 15px;
+  }
+  .cm
+  {
+	font-family: cursive;
+  }
